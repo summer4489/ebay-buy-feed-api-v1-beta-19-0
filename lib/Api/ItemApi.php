@@ -8,7 +8,7 @@
  * @author   Swagger Codegen team
  * @link     https://github.com/swagger-api/swagger-codegen
  */
-//added new comment 
+//added new comment okay
 /**
  * Item Feed Service
  *
